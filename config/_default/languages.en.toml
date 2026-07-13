@@ -10,15 +10,15 @@ title = "Congo"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  # description = "Jay Riggins Portfolio"
 
 [params.author]
-  # name = "Your name here"
+  name = "Jay Riggins"
   # image = "img/author.jpg"
-  # headline = "I'm only human"
+  headline = "DevSecOps Platform Engineer"
   # bio = "A little bit about you"
   # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+    { email = "mailto:riggins.jc@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
