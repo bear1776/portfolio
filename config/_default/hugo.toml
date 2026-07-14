@@ -5,6 +5,7 @@
 baseURL = "https://jayriggins.dev"
 defaultContentLanguage = "en"
 
+canonifyURLs = true
 enableRobotsTXT = true
 summaryLength = 0
 
